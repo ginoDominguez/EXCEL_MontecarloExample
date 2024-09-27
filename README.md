@@ -1,4 +1,4 @@
-###L&P sample using Montecarlo Method
+#L&P sample using Montecarlo Method
 
 Case study: Using the Monte Carlo method in Excel:
 By using simulation and probabilities, the aim is to obtain a decision-making tool to help the manager to make decisions, despite the level of uncertainty in the different variables. In the case of this example, the goal is to estimate and simulate a profit and loss statement by knowing some distributions such as:
